@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Sequential Test Suite">
+
+	
+	<listeners>
+		<listener class-name="com.util.Extent_Reports"/>
+	</listeners>
+	
+	
+		<test name="Test 2" preserve-order="true">	
+			<classes>	
+			<class name="com.testsuite_regression.TP_TC_001" />
+			<class name="com.testsuite_regression.TP_TC_003" />
+			<class name="com.testsuite_regression.TP_TC_004" />
+			<class name="com.testsuite_regression.TP_TC_005" />
+			<class name="com.testsuite_regression.TP_TC_006" />
+			<class name="com.testsuite_regression.TP_TC_006_2" />
+			<class name="com.testsuite_regression.TP_TC_007" />
+			<class name="com.testsuite_regression.TP_TC_008" />
+			<class name="com.testsuite_regression.TP_TC_009" />	
+			<class name="com.testsuite_regression.TP_TC_010" />
+			<class name="com.testsuite_regression.TP_TC_011" />	
+			<class name="com.testsuite_regression.TP_TC_012" />
+			<class name="com.testsuite_regression.TP_TC_013" />
+			<class name="com.testsuite_regression.TP_TC_014" />
+			<class name="com.testsuite_regression.TP_TC_015" />
+			<class name="com.testsuite_regression.TP_TC_016" />
+			<class name="com.testsuite_regression.TP_TC_017" />
+			<class name="com.testsuite_regression.TP_TC_018" />
+			<class name="com.testsuite_regression.TP_TC_019" />
+			<class name="com.testsuite_regression.TP_TC_020" />
+			<class name="com.testsuite_regression.TP_TC_021" />
+			<class name="com.testsuite_regression.TP_TC_022" />
+			<class name="com.testsuite_regression.TP_TC_023" />
+			<class name="com.testsuite_regression.TP_TC_024" />
+			<class name="com.testsuite_regression.TP_TC_025" />
+			<class name="com.testsuite_regression.TP_TC_026" />
+			<class name="com.testsuite_regression.TP_TC_027" />
+			<class name="com.testsuite_regression.TP_TC_028" />
+			<class name="com.testsuite_regression.TP_TC_029" />
+			<class name="com.testsuite_regression.TP_TC_030" />
+			<class name="com.testsuite_regression.TP_TC_031" />			
+			<class name="com.testsuite_regression.TP_TC_032" />
+			<class name="com.testsuite_regression.TP_TC_034" />
+			<class name="com.testsuite_regression.TP_TC_035" />
+			<class name="com.testsuite_regression.TP_TC_036" />
+			<class name="com.testsuite_regression.TP_TC_037" />
+			<class name="com.testsuite_regression.TP_TC_038" />
+			<class name="com.testsuite_regression.TP_TC_039" />
+			<class name="com.testsuite_regression.TP_TC_083" />
+			<class name="com.testsuite_regression.TP_TC_084" />
+			<class name="com.testsuite_regression.TP_TC_085" />
+			<class name="com.testsuite_regression.TP_TC_087" />
+			
+			</classes>		
+		</test>	
+		
+</suite> 
+
+
+
+
+

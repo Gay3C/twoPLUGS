@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name=" Sequential Test Suite">
+
+	<listeners>
+		<listener class-name="com.util.Extent_Reports"/>
+	</listeners>
+
+	
+		<test name="Test 4">	
+			<classes>
+			<class name="com.testsuite_regression.TP_TC_081" />
+			</classes>		
+	</test>
+		<test name="Test 5">	
+			<classes>
+			<class name="com.testsuite_regression.TP_TC_083" />
+			</classes>		
+	</test>
+		<test name="Test 6">	
+			<classes>
+			<class name="com.testsuite_regression.TP_TC_084" />
+			</classes>		
+	</test>
+		<test name="Test 7">	
+			<classes>
+			<class name="com.testsuite_regression.TP_TC_085" />
+			</classes>		
+	</test>
+		<test name="Test 8">	
+			<classes>
+			<class name="com.testsuite_regression.TP_TC_087" />
+			</classes>		
+	</test>
+		<test name="Test 9">	
+			<classes>
+			<class name="com.testsuite_regression.TP_TC_088" />
+			</classes>		
+	</test>
+	
+	
+	
+	
+
+
+
+	
+</suite> 

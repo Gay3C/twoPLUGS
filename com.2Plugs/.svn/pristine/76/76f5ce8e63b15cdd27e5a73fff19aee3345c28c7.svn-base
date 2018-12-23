@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ Sequential Test Suite]">
+  <listeners>
+    <listener class-name="com.util.Extent_Reports"/>
+  </listeners>
+  <test thread-count="5" name="Test 4(failed)">
+    <classes>
+      <class name="com.testsuite_regression.TP_TC_081">
+        <methods>
+          <include name="deleteURL"/>
+          <include name="closebrowser"/>
+          <include name="tearDown"/>
+          <include name="initialise"/>
+        </methods>
+      </class> <!-- com.testsuite_regression.TP_TC_081 -->
+    </classes>
+  </test> <!-- Test 4(failed) -->
+  <test thread-count="5" name="Test 5(failed)">
+    <classes>
+      <class name="com.testsuite_regression.TP_TC_083">
+        <methods>
+          <include name="tearDown"/>
+          <include name="deleteURL"/>
+          <include name="initialise"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testsuite_regression.TP_TC_083 -->
+    </classes>
+  </test> <!-- Test 5(failed) -->
+  <test thread-count="5" name="Test 6(failed)">
+    <classes>
+      <class name="com.testsuite_regression.TP_TC_084">
+        <methods>
+          <include name="initialise"/>
+          <include name="createService"/>
+          <include name="tearDown"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testsuite_regression.TP_TC_084 -->
+    </classes>
+  </test> <!-- Test 6(failed) -->
+  <test thread-count="5" name="Test 7(failed)">
+    <classes>
+      <class name="com.testsuite_regression.TP_TC_085">
+        <methods>
+          <include name="tearDown"/>
+          <include name="initialise"/>
+          <include name="createNeed"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testsuite_regression.TP_TC_085 -->
+    </classes>
+  </test> <!-- Test 7(failed) -->
+  <test thread-count="5" name="Test 8(failed)">
+    <classes>
+      <class name="com.testsuite_regression.TP_TC_087">
+        <methods>
+          <include name="tearDown"/>
+          <include name="createService"/>
+          <include name="initialise"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testsuite_regression.TP_TC_087 -->
+    </classes>
+  </test> <!-- Test 8(failed) -->
+  <test thread-count="5" name="Test 9(failed)">
+    <classes>
+      <class name="com.testsuite_regression.TP_TC_088">
+        <methods>
+          <include name="deleteURL"/>
+          <include name="initialise"/>
+          <include name="closebrowser"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.testsuite_regression.TP_TC_088 -->
+    </classes>
+  </test> <!-- Test 9(failed) -->
+</suite> <!-- Failed suite [ Sequential Test Suite] -->

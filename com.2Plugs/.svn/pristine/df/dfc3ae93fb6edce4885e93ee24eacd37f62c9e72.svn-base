@@ -1,0 +1,8 @@
+baseURL=https://qatest.twoplugs.com
+username=Jack
+username2=Boy
+username3=lia
+password=test2plug
+chromepath=./Drivers\\chromedriver.exe
+firefoxpath=./Drivers\\geckodriver.exe
+pageTitle=twoPLUGS - A plug for your Service and another for your Need

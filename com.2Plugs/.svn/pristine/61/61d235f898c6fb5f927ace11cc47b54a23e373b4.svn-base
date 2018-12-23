@@ -1,0 +1,357 @@
+2018-12-10 14:06:23,136 - com.2Plugs -INFO - Application opened
+2018-12-10 14:06:23,258 - com.2Plugs -INFO - Clicked FAQ tab
+2018-12-10 14:06:23,442 - com.2Plugs -INFO - Checked Question1
+2018-12-10 14:06:23,621 - com.2Plugs -INFO - Checked Question2
+2018-12-10 14:06:23,778 - com.2Plugs -INFO - Checked Question3
+2018-12-10 14:06:23,932 - com.2Plugs -INFO - Checked Question4
+2018-12-10 14:06:24,104 - com.2Plugs -INFO - Checked Question5
+2018-12-10 14:06:24,290 - com.2Plugs -INFO - Checked Question6
+2018-12-10 14:06:24,472 - com.2Plugs -INFO - Checked Question7
+2018-12-10 17:34:02,565 - com.2Plugs -INFO - Application opened
+2018-12-10 17:34:02,672 - com.2Plugs -INFO - Clicked FAQ tab
+2018-12-10 17:34:02,867 - com.2Plugs -INFO - Checked Question1
+2018-12-10 17:34:03,055 - com.2Plugs -INFO - Checked Question2
+2018-12-10 17:34:03,209 - com.2Plugs -INFO - Checked Question3
+2018-12-10 17:34:03,386 - com.2Plugs -INFO - Checked Question4
+2018-12-10 17:34:03,573 - com.2Plugs -INFO - Checked Question5
+2018-12-10 17:34:03,786 - com.2Plugs -INFO - Checked Question6
+2018-12-10 17:34:03,934 - com.2Plugs -INFO - Checked Question7
+2018-12-11 09:55:08,360 - twoplugs -INFO - Application opened
+2018-12-11 10:01:50,711 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 10:01:50,884 - BaseClass -DEBUG - loading the excel file
+2018-12-11 10:01:57,413 - BaseClass -INFO - Application opened
+2018-12-11 10:01:57,488 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 10:01:57,641 - BaseClass -INFO - Checked Question1
+2018-12-11 10:01:57,872 - BaseClass -INFO - Checked Question2
+2018-12-11 10:01:58,056 - BaseClass -INFO - Checked Question3
+2018-12-11 10:01:58,234 - BaseClass -INFO - Checked Question4
+2018-12-11 10:09:33,556 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 10:09:33,707 - BaseClass -DEBUG - loading the excel file
+2018-12-11 10:09:39,709 - BaseClass -INFO - Application opened
+2018-12-11 10:09:39,791 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 10:09:40,072 - BaseClass -INFO - Checked Question1
+2018-12-11 10:09:40,274 - BaseClass -INFO - Checked Question2
+2018-12-11 10:09:40,422 - BaseClass -INFO - Checked Question3
+2018-12-11 10:09:40,603 - BaseClass -INFO - Checked Question4
+2018-12-11 10:09:40,793 - BaseClass -INFO - Checked Question5
+2018-12-11 10:09:40,979 - BaseClass -INFO - Checked Question6
+2018-12-11 10:09:41,157 - BaseClass -INFO - Checked Question7
+2018-12-11 10:10:31,255 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 10:10:31,391 - BaseClass -DEBUG - loading the excel file
+2018-12-11 10:10:37,151 - BaseClass -INFO - Application opened
+2018-12-11 10:10:37,298 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 10:10:37,495 - BaseClass -INFO - Checked Question1
+2018-12-11 10:10:37,755 - BaseClass -INFO - Checked Question2
+2018-12-11 10:10:37,927 - BaseClass -INFO - Checked Question3
+2018-12-11 10:10:38,120 - BaseClass -INFO - Checked Question4
+2018-12-11 10:12:55,491 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 10:12:55,647 - BaseClass -DEBUG - loading the excel file
+2018-12-11 10:13:01,369 - BaseClass -INFO - Application opened
+2018-12-11 10:13:01,449 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 10:13:01,636 - BaseClass -INFO - Checked Question1
+2018-12-11 10:13:01,824 - BaseClass -INFO - Checked Question2
+2018-12-11 10:13:02,001 - BaseClass -INFO - Checked Question3
+2018-12-11 10:13:02,182 - BaseClass -INFO - Checked Question4
+2018-12-11 10:13:02,381 - BaseClass -INFO - Checked Question5
+2018-12-11 10:13:02,565 - BaseClass -INFO - Checked Question6
+2018-12-11 10:13:02,751 - BaseClass -INFO - Checked Question7
+2018-12-11 12:57:18,047 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 12:57:18,230 - BaseClass -DEBUG - loading the excel file
+2018-12-11 12:57:23,855 - BaseClass -INFO - Application opened
+2018-12-11 12:57:23,856 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-11 12:57:23,948 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 12:57:24,109 - BaseClass -INFO - Checked Question1
+2018-12-11 12:57:24,271 - BaseClass -INFO - Checked Question2
+2018-12-11 12:57:24,470 - BaseClass -INFO - Checked Question3
+2018-12-11 12:57:24,645 - BaseClass -INFO - Checked Question4
+2018-12-11 12:57:24,805 - BaseClass -INFO - Checked Question5
+2018-12-11 12:57:24,987 - BaseClass -INFO - Checked Question6
+2018-12-11 12:57:25,157 - BaseClass -INFO - Checked Question7
+2018-12-11 12:58:34,427 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 12:58:34,580 - BaseClass -DEBUG - loading the excel file
+2018-12-11 12:58:39,822 - BaseClass -INFO - Application opened
+2018-12-11 12:58:39,822 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-11 12:58:39,924 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 12:58:40,116 - BaseClass -INFO - Checked Question1
+2018-12-11 12:58:40,284 - BaseClass -INFO - Checked Question2
+2018-12-11 12:58:40,446 - BaseClass -INFO - Checked Question3
+2018-12-11 12:58:40,612 - BaseClass -INFO - Checked Question4
+2018-12-11 12:58:40,779 - BaseClass -INFO - Checked Question5
+2018-12-11 12:58:40,947 - BaseClass -INFO - Checked Question6
+2018-12-11 12:58:41,126 - BaseClass -INFO - Checked Question7
+2018-12-11 13:03:26,819 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 13:03:26,963 - BaseClass -DEBUG - loading the excel file
+2018-12-11 13:03:33,050 - BaseClass -INFO - Validation started for Footer Links
+2018-12-11 13:03:33,413 - BaseClass -INFO - About link clicked
+2018-12-11 13:03:34,094 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 13:03:34,132 - BaseClass -DEBUG - loading the excel file
+2018-12-11 13:03:39,068 - BaseClass -INFO - Application opened
+2018-12-11 13:03:39,068 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-11 13:03:39,154 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 13:03:39,343 - BaseClass -INFO - Checked Question1
+2018-12-11 13:03:39,488 - BaseClass -INFO - Checked Question2
+2018-12-11 13:03:39,637 - BaseClass -INFO - Checked Question3
+2018-12-11 13:03:39,784 - BaseClass -INFO - Checked Question4
+2018-12-11 13:03:39,933 - BaseClass -INFO - Checked Question5
+2018-12-11 13:03:40,123 - BaseClass -INFO - Checked Question6
+2018-12-11 13:03:40,305 - BaseClass -INFO - Checked Question7
+2018-12-11 16:18:17,234 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 16:18:17,390 - BaseClass -DEBUG - loading the excel file
+2018-12-11 16:18:23,744 - BaseClass -INFO - Validation started for Footer Links
+2018-12-11 16:18:24,658 - BaseClass -INFO - ABOUT link clicked
+2018-12-11 16:18:24,659 - BaseClass -INFO - Validation completed for ABOUT,EEDS,TRUST&SAFETY,FAQ,HELP,TERMS and PRIVACY links in the Footer
+2018-12-11 16:18:25,343 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 16:18:25,381 - BaseClass -DEBUG - loading the excel file
+2018-12-11 16:18:29,889 - BaseClass -INFO - Application opened
+2018-12-11 16:18:29,890 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-11 16:18:30,023 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 16:18:30,192 - BaseClass -INFO - Checked Question1
+2018-12-11 16:18:30,349 - BaseClass -INFO - Checked Question2
+2018-12-11 16:18:30,549 - BaseClass -INFO - Checked Question3
+2018-12-11 16:18:30,773 - BaseClass -INFO - Checked Question4
+2018-12-11 16:18:30,923 - BaseClass -INFO - Checked Question5
+2018-12-11 16:18:31,091 - BaseClass -INFO - Checked Question6
+2018-12-11 16:18:31,273 - BaseClass -INFO - Checked Question7
+2018-12-11 16:18:31,274 - BaseClass -INFO - Validation completed for FAQ link at the top of the Landing Page
+2018-12-11 18:19:03,971 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 18:19:04,113 - BaseClass -DEBUG - loading the excel file
+2018-12-11 18:19:10,187 - BaseClass -INFO - Application opened
+2018-12-11 18:19:10,187 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-11 18:19:10,306 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 18:19:10,517 - BaseClass -INFO - Checked Question1
+2018-12-11 18:19:10,727 - BaseClass -INFO - Checked Question2
+2018-12-11 18:19:10,896 - BaseClass -INFO - Checked Question3
+2018-12-11 18:19:11,081 - BaseClass -INFO - Checked Question4
+2018-12-11 18:19:11,278 - BaseClass -INFO - Checked Question5
+2018-12-11 18:19:11,469 - BaseClass -INFO - Checked Question6
+2018-12-11 18:19:11,647 - BaseClass -INFO - Checked Question7
+2018-12-11 18:19:11,648 - BaseClass -INFO - Validation completed for FAQ link at the top of the Landing Page
+2018-12-11 18:19:12,331 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 18:19:12,345 - BaseClass -DEBUG - loading the excel file
+2018-12-11 18:19:17,136 - BaseClass -INFO - Validation started for Footer Links
+2018-12-11 18:19:17,533 - BaseClass -INFO - ABOUT link clicked
+2018-12-11 18:19:19,331 - BaseClass -INFO - EEDS link clicked
+2018-12-11 18:19:19,714 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-11 18:19:20,388 - BaseClass -INFO - FAQ link clicked
+2018-12-11 18:19:52,068 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 18:19:52,126 - BaseClass -DEBUG - loading the excel file
+2018-12-11 18:19:57,449 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-11 18:19:57,587 - BaseClass -INFO - Facebook icon clicked
+2018-12-11 18:20:02,818 - BaseClass -INFO - Instagram icon clicked
+2018-12-11 18:20:07,966 - BaseClass -INFO - Twitter icon clicked
+2018-12-11 18:20:07,966 - BaseClass -INFO - Validation completed for Social Media icons
+2018-12-11 18:36:41,766 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 18:36:41,928 - BaseClass -DEBUG - loading the excel file
+2018-12-11 18:36:47,581 - BaseClass -INFO - Application opened
+2018-12-11 18:36:47,581 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-11 18:36:47,682 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 18:36:47,834 - BaseClass -INFO - Checked Question1
+2018-12-11 18:36:48,050 - BaseClass -INFO - Checked Question2
+2018-12-11 18:36:49,436 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 18:36:49,456 - BaseClass -DEBUG - loading the excel file
+2018-12-11 18:36:54,736 - BaseClass -INFO - Validation started for Footer Links
+2018-12-11 18:36:55,177 - BaseClass -INFO - ABOUT link clicked
+2018-12-11 18:36:57,892 - BaseClass -INFO - EEDS link clicked
+2018-12-11 18:36:58,248 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-11 18:36:59,038 - BaseClass -INFO - FAQ link clicked
+2018-12-11 18:49:25,058 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 18:49:25,211 - BaseClass -DEBUG - loading the excel file
+2018-12-11 18:49:31,156 - BaseClass -INFO - Application opened
+2018-12-11 18:49:31,157 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-11 18:49:31,249 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 18:49:31,420 - BaseClass -INFO - Checked Question1
+2018-12-11 18:49:31,577 - BaseClass -INFO - Checked Question2
+2018-12-11 18:49:31,715 - BaseClass -INFO - Checked Question3
+2018-12-11 18:49:31,889 - BaseClass -INFO - Checked Question4
+2018-12-11 18:49:32,085 - BaseClass -INFO - Checked Question5
+2018-12-11 18:49:32,239 - BaseClass -INFO - Checked Question6
+2018-12-11 18:49:32,415 - BaseClass -INFO - Checked Question7
+2018-12-11 18:49:32,416 - BaseClass -INFO - Validation completed for FAQ link at the top of the Landing Page
+2018-12-11 18:51:21,693 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 18:51:21,840 - BaseClass -DEBUG - loading the excel file
+2018-12-11 18:51:28,060 - BaseClass -INFO - Application opened
+2018-12-11 18:51:28,064 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-11 18:51:28,159 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 18:51:28,320 - BaseClass -INFO - Checked Question1
+2018-12-11 18:51:28,477 - BaseClass -INFO - Checked Question2
+2018-12-11 18:51:28,617 - BaseClass -INFO - Checked Question3
+2018-12-11 18:51:28,789 - BaseClass -INFO - Checked Question4
+2018-12-11 18:51:28,954 - BaseClass -INFO - Checked Question5
+2018-12-11 18:51:29,147 - BaseClass -INFO - Checked Question6
+2018-12-11 18:51:29,341 - BaseClass -INFO - Checked Question7
+2018-12-11 18:51:29,343 - BaseClass -INFO - Validation completed for FAQ link at the top of the Landing Page
+2018-12-11 18:51:30,018 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 18:51:30,031 - BaseClass -DEBUG - loading the excel file
+2018-12-11 18:51:34,601 - BaseClass -INFO - Validation started for Footer Links
+2018-12-11 18:51:35,195 - BaseClass -INFO - ABOUT link clicked
+2018-12-11 18:51:37,764 - BaseClass -INFO - EEDS link clicked
+2018-12-11 18:51:38,204 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-11 18:51:38,728 - BaseClass -INFO - FAQ link clicked
+2018-12-11 19:03:39,387 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 19:03:39,538 - BaseClass -DEBUG - loading the excel file
+2018-12-11 19:03:45,308 - BaseClass -INFO - Application opened
+2018-12-11 19:03:45,309 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-11 19:03:45,397 - BaseClass -INFO - Clicked FAQ tab
+2018-12-11 19:03:45,581 - BaseClass -INFO - Checked Question1
+2018-12-11 19:03:45,756 - BaseClass -INFO - Checked Question2
+2018-12-11 19:03:45,910 - BaseClass -INFO - Checked Question3
+2018-12-11 19:03:46,079 - BaseClass -INFO - Checked Question4
+2018-12-11 19:03:46,248 - BaseClass -INFO - Checked Question5
+2018-12-11 19:03:46,415 - BaseClass -INFO - Checked Question6
+2018-12-11 19:03:46,587 - BaseClass -INFO - Checked Question7
+2018-12-11 19:03:46,588 - BaseClass -INFO - Validation completed for FAQ link at the top of the Landing Page
+2018-12-11 19:03:47,246 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 19:03:47,288 - BaseClass -DEBUG - loading the excel file
+2018-12-11 19:03:52,639 - BaseClass -INFO - Validation started for Footer Links
+2018-12-11 19:03:53,251 - BaseClass -INFO - ABOUT link clicked
+2018-12-11 19:03:57,864 - BaseClass -INFO - EEDS link clicked
+2018-12-11 19:03:58,416 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-11 19:03:59,111 - BaseClass -INFO - FAQ link clicked
+2018-12-11 22:33:14,445 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 22:33:14,608 - BaseClass -DEBUG - loading the excel file
+2018-12-11 22:33:19,964 - BaseClass -INFO - Validation started for Footer Links
+2018-12-11 22:33:20,463 - BaseClass -INFO - ABOUT link clicked
+2018-12-11 22:33:23,394 - BaseClass -INFO - EEDS link clicked
+2018-12-11 22:33:23,721 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-11 22:33:24,286 - BaseClass -INFO - FAQ link clicked
+2018-12-11 22:34:36,460 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 22:34:36,610 - BaseClass -DEBUG - loading the excel file
+2018-12-11 22:34:42,769 - BaseClass -INFO - Validation started for Footer Links
+2018-12-11 22:34:43,157 - BaseClass -INFO - ABOUT link clicked
+2018-12-11 22:34:46,412 - BaseClass -INFO - EEDS link clicked
+2018-12-11 22:34:46,778 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-11 22:34:47,360 - BaseClass -INFO - FAQ link clicked
+2018-12-11 22:39:29,910 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 22:39:30,059 - BaseClass -DEBUG - loading the excel file
+2018-12-11 22:39:35,954 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-11 22:39:36,108 - BaseClass -INFO - Facebook icon clicked
+2018-12-11 22:39:41,313 - BaseClass -INFO - Instagram icon clicked
+2018-12-11 22:39:46,487 - BaseClass -INFO - Twitter icon clicked
+2018-12-11 22:39:46,488 - BaseClass -INFO - Validation completed for Social Media icons
+2018-12-11 22:41:56,975 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-11 22:41:57,135 - BaseClass -DEBUG - loading the excel file
+2018-12-11 22:42:02,798 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-11 22:42:02,983 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:08:49,665 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:08:49,827 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:08:56,497 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 11:08:58,703 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:15:31,215 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:15:31,377 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:15:38,333 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 11:15:40,057 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:32:12,245 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:32:12,407 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:32:17,919 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 11:32:19,938 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:33:10,492 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:33:10,652 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:33:16,041 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 11:33:17,944 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:37:07,002 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:37:07,158 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:37:12,473 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 11:37:23,700 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:38:41,622 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:38:41,776 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:38:47,716 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 11:38:57,873 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:42:28,996 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:42:29,150 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:42:35,906 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 11:42:47,159 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:53:42,176 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:53:42,328 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:53:48,188 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:53:48,211 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:53:52,412 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 11:54:03,731 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:57:57,761 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 11:57:57,914 - BaseClass -DEBUG - loading the excel file
+2018-12-12 11:58:04,721 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 11:58:15,973 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 11:58:27,317 - BaseClass -INFO - Instagram icon clicked
+2018-12-12 11:58:38,683 - BaseClass -INFO - Twitter icon clicked
+2018-12-12 11:58:38,683 - BaseClass -INFO - Validation completed for Social Media icons
+2018-12-12 12:10:59,822 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 12:10:59,976 - BaseClass -DEBUG - loading the excel file
+2018-12-12 12:11:06,137 - BaseClass -INFO - Validation started for Footer Links
+2018-12-12 12:11:06,836 - BaseClass -INFO - ABOUT link clicked
+2018-12-12 12:11:10,032 - BaseClass -INFO - EEDS link clicked
+2018-12-12 12:11:10,523 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-12 12:11:11,004 - BaseClass -INFO - FAQ link clicked
+2018-12-12 12:18:49,615 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 12:18:49,776 - BaseClass -DEBUG - loading the excel file
+2018-12-12 12:18:56,254 - BaseClass -INFO - Validation started for Footer Links
+2018-12-12 12:18:56,728 - BaseClass -INFO - ABOUT link clicked
+2018-12-12 12:18:58,394 - BaseClass -INFO - EEDS link clicked
+2018-12-12 12:18:58,808 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-12 12:19:00,295 - BaseClass -INFO - FAQ link clicked
+2018-12-12 12:26:42,882 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 12:26:43,041 - BaseClass -DEBUG - loading the excel file
+2018-12-12 12:26:48,961 - BaseClass -INFO - Validation started for Footer Links
+2018-12-12 12:26:50,005 - BaseClass -INFO - ABOUT link clicked
+2018-12-12 12:26:53,277 - BaseClass -INFO - EEDS link clicked
+2018-12-12 12:26:53,705 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-12 12:26:54,314 - BaseClass -INFO - FAQ link clicked
+2018-12-12 12:28:32,660 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 12:28:32,823 - BaseClass -DEBUG - loading the excel file
+2018-12-12 12:28:41,925 - BaseClass -INFO - Validation started for Footer Links
+2018-12-12 12:28:42,504 - BaseClass -INFO - ABOUT link clicked
+2018-12-12 12:28:44,140 - BaseClass -INFO - EEDS link clicked
+2018-12-12 12:28:44,665 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-12 12:28:45,212 - BaseClass -INFO - FAQ link clicked
+2018-12-12 12:34:42,468 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 12:34:42,622 - BaseClass -DEBUG - loading the excel file
+2018-12-12 12:34:49,993 - BaseClass -INFO - Validation started for Footer Links
+2018-12-12 12:34:50,533 - BaseClass -INFO - ABOUT link clicked
+2018-12-12 12:34:53,989 - BaseClass -INFO - EEDS link clicked
+2018-12-12 12:34:54,413 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-12 12:34:55,272 - BaseClass -INFO - FAQ link clicked
+2018-12-12 12:34:55,748 - BaseClass -INFO - HELP link clicked
+2018-12-12 12:34:55,749 - BaseClass -INFO - TERMS link clicked
+2018-12-12 12:34:55,749 - BaseClass -INFO - PRIVACY link clicked
+2018-12-12 12:36:55,052 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 12:36:55,212 - BaseClass -DEBUG - loading the excel file
+2018-12-12 12:37:01,158 - BaseClass -INFO - Validation started for Footer Links
+2018-12-12 12:37:01,617 - BaseClass -INFO - ABOUT link clicked
+2018-12-12 12:37:03,279 - BaseClass -INFO - EEDS link clicked
+2018-12-12 12:37:03,996 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-12 12:37:04,974 - BaseClass -INFO - FAQ link clicked
+2018-12-12 12:37:05,705 - BaseClass -INFO - HELP link clicked
+2018-12-12 12:37:06,332 - BaseClass -INFO - TERMS link clicked
+2018-12-12 12:37:06,899 - BaseClass -INFO - PRIVACY link clicked
+2018-12-12 12:37:07,281 - BaseClass -INFO - JOIN NOW FOR FREE button clicked
+2018-12-12 12:37:07,281 - BaseClass -INFO - Validation completed for ABOUT,EEDS,TRUST&SAFETY,FAQ,HELP,TERMS and PRIVACY links in the Footer
+2018-12-12 12:37:51,706 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 12:37:51,871 - BaseClass -DEBUG - loading the excel file
+2018-12-12 12:37:57,336 - BaseClass -INFO - Application opened
+2018-12-12 12:37:57,336 - BaseClass -INFO - Validation Started for FAQ link
+2018-12-12 12:37:57,431 - BaseClass -INFO - Clicked FAQ tab
+2018-12-12 12:37:57,607 - BaseClass -INFO - Checked Question1
+2018-12-12 12:37:57,768 - BaseClass -INFO - Checked Question2
+2018-12-12 12:37:57,948 - BaseClass -INFO - Checked Question3
+2018-12-12 12:37:58,118 - BaseClass -INFO - Checked Question4
+2018-12-12 12:37:58,283 - BaseClass -INFO - Checked Question5
+2018-12-12 12:37:58,433 - BaseClass -INFO - Checked Question6
+2018-12-12 12:37:58,603 - BaseClass -INFO - Checked Question7
+2018-12-12 12:37:58,603 - BaseClass -INFO - Validation completed for FAQ link at the top of the Landing Page
+2018-12-12 12:37:59,274 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 12:37:59,308 - BaseClass -DEBUG - loading the excel file
+2018-12-12 12:38:04,505 - BaseClass -INFO - Validation started for Footer Links
+2018-12-12 12:38:05,007 - BaseClass -INFO - ABOUT link clicked
+2018-12-12 12:38:06,592 - BaseClass -INFO - EEDS link clicked
+2018-12-12 12:38:07,017 - BaseClass -INFO - TRUST&SAFETY link clicked
+2018-12-12 12:38:07,851 - BaseClass -INFO - FAQ link clicked
+2018-12-12 12:38:08,349 - BaseClass -INFO - HELP link clicked
+2018-12-12 12:38:08,815 - BaseClass -INFO - TERMS link clicked
+2018-12-12 12:38:09,314 - BaseClass -INFO - PRIVACY link clicked
+2018-12-12 12:38:09,694 - BaseClass -INFO - JOIN NOW FOR FREE button clicked
+2018-12-12 12:38:09,694 - BaseClass -INFO - Validation completed for ABOUT,EEDS,TRUST&SAFETY,FAQ,HELP,TERMS and PRIVACY links in the Footer
+2018-12-12 12:38:10,380 - BaseClass -DEBUG - Debug Messages! loading the config property file
+2018-12-12 12:38:10,419 - BaseClass -DEBUG - loading the excel file
+2018-12-12 12:38:15,000 - BaseClass -INFO - Validation started for Social Media icons
+2018-12-12 12:38:26,266 - BaseClass -INFO - Facebook icon clicked
+2018-12-12 12:38:37,648 - BaseClass -INFO - Instagram icon clicked
+2018-12-12 12:38:49,034 - BaseClass -INFO - Twitter icon clicked
+2018-12-12 12:38:49,034 - BaseClass -INFO - Validation completed for Social Media icons
